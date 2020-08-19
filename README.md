@@ -17,6 +17,9 @@ $ ./cello
 Hello World
 ```
 
+
+git tag -a v1.5.5 -m 'help'
+git push origin --tags
   
 Credits :
 
